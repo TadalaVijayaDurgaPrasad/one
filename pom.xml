@@ -39,7 +39,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://63.185.183.84:8081/repository/artifact-repo/</url>
+		    <url>http://63.183.141.40:8081/repository/project-artifact/</url>
 		 </snapshotRepository>
 		
 		<repository>
